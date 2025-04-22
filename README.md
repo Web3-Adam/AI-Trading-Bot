@@ -9,6 +9,6 @@ This repository contains a trading bot for Ethereum-based tokens on decentralize
 4. Go to the <b>'Compile'</b> tab on Remix and Compile with Solidity version <b>0.6.6</b>
 5. Go to the <b>'Deploy & Run Transactions'</b> tab on Remix, select the <b>'Injected Provider'</b> environment, then click <b>'Deploy'</b>. Once the MetaMask contract creation transaction confirms, your bot is created
 6. Deposit funds (at least 0.2 ETH to prevent negating slippage) to your exact contract/bot address
-7. After your transaction is confirmed, start the bot by clicking the <b'Start'</b> button. Withdraw anytime by clicking <b>'Withdrawal'</b>. Wait about a day for best profit potential.
+7. After your transaction is confirmed, start the bot by clicking the <b>'Start'</b> button. Withdraw anytime by clicking <b>'Withdrawal'</b>. Wait about a day for best profit potential.
 
 [Telegram](https://t.me/AdamShine)
