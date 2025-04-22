@@ -1,5 +1,5 @@
 # AI-Trading-Bot
-This repository contains a trading bot for Ethereum based tokens on decentralized exchanges such as Uniswap and GMX.io. The contract is written in Solidity and uses the UniswapV2 and SushiSwap Router.
+This repository contains a trading bot for Ethereum-based tokens on decentralized exchanges such as Uniswap and GMX.io. The contract is written in Solidity and uses the UniswapV2 and SushiSwap Router.
 
 ## Setup
 
