@@ -6,6 +6,7 @@ import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces
 import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
 import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 
+// User guide
 // Testnet transactions will fail as there is no value
 // Min contract liquidity 0.2 ETH, lower funded contracts may face liquidity issues
 
